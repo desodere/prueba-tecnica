@@ -22,7 +22,7 @@ Permite a los usuarios :
 # Acceso al proyecto
 https://github.com/desodere/prueba-tecnica
 
-#Endpoints de la API
+# Endpoints de la API
 Se recomienda utilizar Postman como herramienta para comprobar el funcionamiento de la APi.
 
 Método	Ruta		Descripción
@@ -33,25 +33,25 @@ PUT	/api/task/{id}	Actualizar el estado de una tarea existente.
 DELETE	/api/task/{id}	Eliminar una tarea por su ID.
 
 
-#Base de datos
+# Base de datos
 - URL:localhost:8080/h2-ui
 - JDBC URL: jdbc:h2:mem:testdb
 - Usuario: sa
 - Contraseña: (vacío)
 
 
-#Pruebas
+# Pruebas
 La aplicación incluye una pruebas unitarias.
 Se encuenta en \src\test\java\com\nauth\apirest\ApiRestApplicationTests
 
 
-#Importante
+# Importante
 Clase Task tiene como atributos:
 -id : clave unica de la tarea
 -descripción : tipo String, descripción de la tarea
 -state : tipo String, se usara con las siguientes convención (A)completado, (I)no-completado, (E)eliminado.
 
-#Autor
+# Autor
 Darwin Mojica
 ddmojica8@gmail.com
 

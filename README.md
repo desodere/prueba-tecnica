@@ -1,6 +1,6 @@
-#Gestion de tareas API
+# Gestion de tareas API
 
-##Descripción
+## Descripción
 Aplicación backend de gestión de tareas.
 Permite a los usuarios :
 -Crear nuevas tareas
@@ -9,7 +9,7 @@ Permite a los usuarios :
 -Buscar todas las tareas
 -Eliminar tarea
 
-#tecnologias utilizadas
+# tecnologias utilizadas
 - Java
 - Spring Boot
 - Maven

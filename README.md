@@ -47,9 +47,9 @@ Se encuenta en \src\test\java\com\nauth\apirest\ApiRestApplicationTests
 
 ## Importante
 Clase Task tiene como atributos:
--id : clave unica de la tarea
--descripción : tipo String, descripción de la tarea
--state : tipo String, se usara con las siguientes convención (A)completado, (I)no-completado, (E)eliminado.
+- id : clave unica de la tarea
+- descripción : tipo String, descripción de la tarea
+- state : tipo String, se usara con las siguientes convención (A)completado, (I)no-completado, (E)eliminado.
 
 ## Autor
 Darwin Mojica
